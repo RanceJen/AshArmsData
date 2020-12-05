@@ -4,6 +4,7 @@ Repository containing the data for the game Ash Arms.
 # Bugs(zh-CN)
 
 **修復良性 Bug 前請審慎評估將對代理人造成之影響**
+有發現任何其餘 Bug 歡迎 PR
 
 Bug 暫時分類為以下三種 Tag
 * 惡性
