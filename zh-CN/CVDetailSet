@@ -1,0 +1,150 @@
+﻿[
+  {
+    "CVType": "Ready1",
+    "CVDetail": "问候语"
+  },
+  {
+    "CVType": "GoGo",
+    "CVDetail": "编成"
+  },
+  {
+    "CVType": "Launch",
+    "CVDetail": "出击"
+  },
+  {
+    "CVType": "Change1",
+    "CVDetail": "姿态切换1"
+  },
+  {
+    "CVType": "Change2",
+    "CVDetail": "姿态切换2"
+  },
+  {
+    "CVType": "LdSkill",
+    "CVDetail": "队长技能"
+  },
+  {
+    "CVType": "Attack1",
+    "CVDetail": "普通攻击1"
+  },
+  {
+    "CVType": "Attack2",
+    "CVDetail": "普通攻击2"
+  },
+  {
+    "CVType": "Skill1",
+    "CVDetail": "技能攻击1"
+  },
+  {
+    "CVType": "Skill2",
+    "CVDetail": "技能攻击2"
+  },
+  {
+    "CVType": "SPSkill",
+    "CVDetail": "必杀技！"
+  },
+  {
+    "CVType": "Win",
+    "CVDetail": "胜利"
+  },
+  {
+    "CVType": "Lose",
+    "CVDetail": "被击败"
+  },
+  {
+    "CVType": "Dmg1",
+    "CVDetail": "被攻击1"
+  },
+  {
+    "CVType": "Dmg2",
+    "CVDetail": "被攻击2"
+  },
+  {
+    "CVType": "Miss",
+    "CVDetail": "闪避"
+  },
+  {
+    "CVType": "Dead",
+    "CVDetail": "失去战力"
+  },
+  {
+    "CVType": "LvUP",
+    "CVDetail": "等级提升"
+  },
+  {
+    "CVType": "MVP",
+    "CVDetail": "MVP！"
+  },
+  {
+    "CVType": "Intro",
+    "CVDetail": "获得语音"
+  },
+  {
+    "CVType": "Order",
+    "CVDetail": "订单发布"
+  },
+  {
+    "CVType": "PowerUp1",
+    "CVDetail": "强化1"
+  },
+  {
+    "CVType": "PowerUp2",
+    "CVDetail": "强化2"
+  },
+  {
+    "CVType": "PowerUp3",
+    "CVDetail": "强化3"
+  },
+  {
+    "CVType": "RTB",
+    "CVDetail": "战斗归来"
+  },
+  {
+    "CVType": "TapHead1",
+    "CVDetail": "摸摸头"
+  },
+  {
+    "CVType": "TapBody1",
+    "CVDetail": "DOLLS交互1"
+  },
+  {
+    "CVType": "TapBody2",
+    "CVDetail": "DOLLS交互2"
+  },
+  {
+    "CVType": "TapBody3",
+    "CVDetail": "DOLLS交互3"
+  },
+  {
+    "CVType": "Mail",
+    "CVDetail": "邮件"
+  },
+  {
+    "CVType": "ModificationRockOn",
+    "CVDetail": "改造开放"
+  },
+  {
+    "CVType": "ModificationChange",
+    "CVDetail": "改造完成"
+  },
+  {
+    "CVType": "Emotion1",
+    "CVDetail": "指令获取1"
+  },
+  {
+    "CVType": "Emotion2",
+    "CVDetail": "指令获取2"
+  },
+  {
+    "CVType": "Emotion3",
+    "CVDetail": "指令获取3"
+  },
+  {
+    "CVType": "Emotion4",
+    "CVDetail": "指令获取4"
+  },
+  {
+    "CVType": "Title",
+    "CVDetail": "标题语音"
+  }
+]

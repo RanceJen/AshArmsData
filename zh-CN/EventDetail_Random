@@ -1,0 +1,1042 @@
+﻿[
+  {
+    "eventID": "SVE0103101",
+    "eventName": "02A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103102",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103103",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103104",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103105",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103106",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103107",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0103108",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104101",
+    "eventName": "02B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104102",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104103",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104104",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104105",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104106",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104107",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0104108",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE102",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "202_Battle_Heat"
+  },
+  {
+    "eventID": "SVE0105101",
+    "eventName": "03A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105102",
+    "eventName": "03A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105103",
+    "eventName": "03A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105104",
+    "eventName": "03A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105105",
+    "eventName": "03A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105106",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105107",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0105108",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106101",
+    "eventName": "03B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106102",
+    "eventName": "03B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106103",
+    "eventName": "03B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106104",
+    "eventName": "03B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106105",
+    "eventName": "03B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106106",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106107",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0106108",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE103",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "SVE0201101",
+    "eventName": "01A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201102",
+    "eventName": "01A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201103",
+    "eventName": "01A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201104",
+    "eventName": "01A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201105",
+    "eventName": "01A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201106",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201107",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0201108",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10001",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202101",
+    "eventName": "01B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202102",
+    "eventName": "01B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202103",
+    "eventName": "01B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202104",
+    "eventName": "01B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202105",
+    "eventName": "01B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202106",
+    "eventName": "01B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202107",
+    "eventName": "01B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0202108",
+    "eventName": "01B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE105",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "201_Battle_Fused"
+  },
+  {
+    "eventID": "SVE0203101",
+    "eventName": "02A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203102",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203103",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203104",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203105",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203106",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203107",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0203108",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204101",
+    "eventName": "02B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204102",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204103",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204104",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204105",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204106",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204107",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0204108",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE104",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "SVE0301101",
+    "eventName": "01A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301102",
+    "eventName": "01A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301103",
+    "eventName": "01A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301104",
+    "eventName": "01A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301105",
+    "eventName": "01A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301106",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301107",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0301108",
+    "eventName": "01A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE101",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302101",
+    "eventName": "02A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302102",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302103",
+    "eventName": "02A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302104",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302105",
+    "eventName": "02A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302106",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302107",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0302108",
+    "eventName": "02A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303101",
+    "eventName": "02B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303102",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303103",
+    "eventName": "02B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303104",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303105",
+    "eventName": "02B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303106",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303107",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0303108",
+    "eventName": "02B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304101",
+    "eventName": "03A-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304102",
+    "eventName": "03A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304103",
+    "eventName": "03A-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304104",
+    "eventName": "03A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304105",
+    "eventName": "03A-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304106",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304107",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0304108",
+    "eventName": "03A-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305101",
+    "eventName": "03B-初级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305102",
+    "eventName": "03B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305103",
+    "eventName": "03B-中级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305104",
+    "eventName": "03B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305105",
+    "eventName": "03B-高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305106",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305107",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  },
+  {
+    "eventID": "SVE0305108",
+    "eventName": "03B-最高级",
+    "eventPoint": "",
+    "eventTypeCN": "随机事件",
+    "landEsid": "SE201",
+    "describe": "胜利条件：击毁所有敌军",
+    "EventDrop": "IM99994,IM6011,IM6012,IM6013,IM6021,IM6022,IM6023,II10002",
+    "bgm": "207_Battle_Nightmare"
+  }
+]

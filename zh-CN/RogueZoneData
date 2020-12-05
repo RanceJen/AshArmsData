@@ -1,0 +1,44 @@
+﻿[
+  {
+    "MapId": "MAP01",
+    "MapType": "1",
+    "MapLevel": "1",
+    "MapScale": "[5,5]",
+    "Cost": "[IM0008,1,500]",
+    "Loot": "IM4003,IM3001,IM3011,IC6003",
+    "FirstPassItemReward": "IM4003,IM4003,IM4003",
+    "MapName": "废都区域 · 浅层",
+    "MapDescription": "对废都区域的浅层进行小范围的远征探索，搜寻地图中的资源区域以开采特殊资源，在此基础上请努力获取更高的评分以获得更丰厚的奖励。",
+    "Score": "1200,900,600",
+    "ScoreDescription": "获得战术评分1200以上，获得战术评分900以上，获得战术评分600以上",
+    "UnlockReq": ""
+  },
+  {
+    "MapId": "MAP02",
+    "MapType": "1",
+    "MapLevel": "2",
+    "MapScale": "[6,6]",
+    "Cost": "[IM0008,2,1000]",
+    "Loot": "IM4003,IM3011,IC6003,IC6004",
+    "FirstPassItemReward": "IM4003,IM4003,IM4003",
+    "MapName": "废都区域 · 中层",
+    "MapDescription": "对废都区域的中层进行中等范围的远征探索，搜寻地图中的资源区域以开采特殊资源，在此基础上请努力获取更高的评分以获得更丰厚的奖励。",
+    "Score": "3000,2250,1500",
+    "ScoreDescription": "获得战术评分3000以上，获得战术评分2550以上，获得战术评分1500以上",
+    "UnlockReq": "MAP01"
+  },
+  {
+    "MapId": "MAP03",
+    "MapType": "1",
+    "MapLevel": "3",
+    "MapScale": "[7,7]",
+    "Cost": "[IM0008,3,1500]",
+    "Loot": "IM4003,IC6004,IC6005,IC6006",
+    "FirstPassItemReward": "IM4003,IM4003,IM4003",
+    "MapName": "废都区域 · 核心",
+    "MapDescription": "对废都区域的深层进行大范围的远征探索，搜寻地图中的资源区域以开采特殊资源，在此基础上请努力获取更高的评分以获得更丰厚的奖励。",
+    "Score": "5600,4200,2800",
+    "ScoreDescription": "获得战术评分5600以上，获得战术评分4200以上，获得战术评分2800以上",
+    "UnlockReq": "MAP02"
+  }
+]

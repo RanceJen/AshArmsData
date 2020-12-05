@@ -1,0 +1,54 @@
+[
+    {
+        "mobdata": "NPC004001,0|NPC004002,0",
+        "npcListId": "NPCL010104"
+    },
+    {
+        "mobdata": "NPC003001,0",
+        "npcListId": "NPCL010103"
+    },
+    {
+        "mobdata": "NPC007001,0|NPC007002,0",
+        "npcListId": "NPCL010106"
+    },
+    {
+        "mobdata": "NPC006001,0|NPC006002,0",
+        "npcListId": "NPCL010105"
+    },
+    {
+        "mobdata": "NPC002001,0",
+        "npcListId": "NPCL010102"
+    },
+    {
+        "mobdata": "NPC001001,0",
+        "npcListId": "NPCL010101"
+    },
+    {
+        "mobdata": "NPC010101,0|NPC010102,0|NPC010103,0",
+        "npcListId": "NPCL020104"
+    },
+    {
+        "mobdata": "NPC010501,0|NPC010502,0|NPC010503,0|NPC010504,0|NPC010505,0",
+        "npcListId": "NPCL020203"
+    },
+    {
+        "mobdata": "NPC010401,0",
+        "npcListId": "NPCL020201"
+    },
+    {
+        "mobdata": "NPC010701,0|NPC010702,0|NPC010703,0|NPC010704,0|NPC010705,0|NPC010706,0",
+        "npcListId": "NPCL020208"
+    },
+    {
+        "mobdata": "NPC010301,0|NPC010302,0|NPC010303,0|NPC010304,0",
+        "npcListId": "NPCL020108"
+    },
+    {
+        "mobdata": "NPC010201,0|NPC010202,0|NPC010203,0|NPC010204,0",
+        "npcListId": "NPCL020106"
+    },
+    {
+        "mobdata": "NPC010601,0|NPC010602,0|NPC010603,0|NPC010604,0|NPC010605,0|NPC010606,0",
+        "npcListId": "NPCL020205"
+    }
+]

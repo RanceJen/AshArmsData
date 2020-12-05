@@ -1,0 +1,7 @@
+{
+    "charCmdLevelReq": "[30,80]",
+    "maxCharLevel": "100",
+    "charCmdCampaigneventReq": "[EVE0104105,EVE0204101]",
+    "moduleSwitch": "[1]",
+    "baseCriticalDB": "50"
+}

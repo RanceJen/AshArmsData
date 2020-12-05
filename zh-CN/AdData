@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Id": "0",
+    "ImgRes": "Home_Banner_Default",
+    "Pos": "ACT*SM",
+    "Url": ""
+  },
+  {
+    "Id": "1",
+    "ImgRes": "Home_Banner_EQ04",
+    "Pos": "ACT*104",
+    "Url": ""
+  },
+  {
+    "Id": "2",
+    "ImgRes": "Home_Banner_A605",
+    "Pos": "CP*A605",
+    "Url": ""
+  },
+  {
+    "Id": "3",
+    "ImgRes": "Home_Banner_A105",
+    "Pos": "CP*A105",
+    "Url": ""
+  },
+  {
+    "Id": "4",
+    "ImgRes": "Home_Banner_A005",
+    "Pos": "CP*A005",
+    "Url": ""
+  },
+  {
+    "Id": "5",
+    "ImgRes": "Home_Banner_ShopSkin",
+    "Pos": "SHOP*198",
+    "Url": ""
+  },
+  {
+    "Id": "6",
+    "ImgRes": "Home_Banner_LoginBeginer",
+    "Pos": "ACT*SC1",
+    "Url": ""
+  },
+  {
+    "Id": "7",
+    "ImgRes": "Home_Banner_FC",
+    "Pos": "ACT*4",
+    "Url": ""
+  },
+  {
+    "Id": "8",
+    "ImgRes": "Home_Banner_Default",
+    "Pos": "ACT*SM",
+    "Url": ""
+  }
+]

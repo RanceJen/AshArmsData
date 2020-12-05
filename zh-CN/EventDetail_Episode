@@ -1,0 +1,502 @@
+﻿[
+  {
+    "eventID": "EPE00110101",
+    "eventName": "人人的愿望-普通 -01",
+    "eventPoint": "EPE00110102",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2011,IM3011,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110102",
+    "eventName": "人人的愿望-普通 -02",
+    "eventPoint": "EPE00110103",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2012,IM3012,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110103",
+    "eventName": "人人的愿望-普通 -03",
+    "eventPoint": "EPE00110104",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2011,IM3013,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110104",
+    "eventName": "人人的愿望-普通 -04",
+    "eventPoint": "EPE00110105",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2012,IM3014,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110105",
+    "eventName": "人人的愿望-普通 -05",
+    "eventPoint": "EPE00110201",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IC2001,IC3001,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110201",
+    "eventName": "最后的愿望-普通 -01",
+    "eventPoint": "EPE00110202",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2011,IM3011,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110202",
+    "eventName": "最后的愿望-普通 -02",
+    "eventPoint": "EPE00110203",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2011,IM3012,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110203",
+    "eventName": "最后的愿望-普通 -03",
+    "eventPoint": "EPE00110204",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2012,IM3013,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110204",
+    "eventName": "最后的愿望-普通 -04",
+    "eventPoint": "EPE00110205",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IM2012,IM3014,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00110205",
+    "eventName": "最后的愿望-普通 -05",
+    "eventPoint": "EPE00120101",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE115",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1001,IC2001,IC3001,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120101",
+    "eventName": "人人的愿望-困难 -01",
+    "eventPoint": "EPE00120102",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1002,IM2021,IM3021,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120102",
+    "eventName": "人人的愿望-困难 -02",
+    "eventPoint": "EPE00120103",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1002,IM2021,IM3022,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120103",
+    "eventName": "人人的愿望-困难 -03",
+    "eventPoint": "EPE00120104",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1002,IM2022,IM3023,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120104",
+    "eventName": "人人的愿望-困难 -04",
+    "eventPoint": "EPE00120105",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1002,IM2022,IM3024,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120105",
+    "eventName": "人人的愿望-困难 -05",
+    "eventPoint": "EPE00120201",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1002,IC2002,IC3002,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120201",
+    "eventName": "最后的愿望-困难 -01",
+    "eventPoint": "EPE00120202",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120202",
+    "eventName": "最后的愿望-困难 -02",
+    "eventPoint": "EPE00120203",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120203",
+    "eventName": "最后的愿望-困难 -03",
+    "eventPoint": "EPE00120204",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120204",
+    "eventName": "最后的愿望-困难 -04",
+    "eventPoint": "EPE00120205",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00120205",
+    "eventName": "最后的愿望-困难 -05",
+    "eventPoint": "EPE00130101",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE115",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,II10001",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00130101",
+    "eventName": "最后的愿望-极难 -01",
+    "eventPoint": "EPE00130102",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1003,IM2031,IM3031,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00130102",
+    "eventName": "最后的愿望-极难 -02",
+    "eventPoint": "EPE00130103",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1003,IM2031,IM3032,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00130103",
+    "eventName": "最后的愿望-极难 -03",
+    "eventPoint": "EPE00130104",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1003,IM2032,IM3033,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00130104",
+    "eventName": "最后的愿望-极难 -04",
+    "eventPoint": "EPE00130105",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE105",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1003,IM2032,IM3034,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00130105",
+    "eventName": "最后的愿望-极难 -05",
+    "eventPoint": "",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE115",
+    "describe": "环境：森丘\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99996,IM1003,IC2003,IC3003,II10002",
+    "bgm": "204_Battle_Mois"
+  },
+  {
+    "eventID": "EPE00210101",
+    "eventName": "死神的纷争-普通 -01",
+    "eventPoint": "EPE00210102",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2011,IM3011,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00210102",
+    "eventName": "死神的纷争-普通 -02",
+    "eventPoint": "EPE00210103",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2012,IM3012,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00210103",
+    "eventName": "死神的纷争-普通 -03",
+    "eventPoint": "EPE00210104",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2011,IM3013,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00210104",
+    "eventName": "死神的纷争-普通 -04",
+    "eventPoint": "EPE00210105",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2012,IM3014,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00210105",
+    "eventName": "死神的纷争-普通 -05",
+    "eventPoint": "EPE00210201",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IC2001,IC3001,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00210201",
+    "eventName": "困兽的盛宴-普通 -01",
+    "eventPoint": "EPE00210202",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2011,IM3011,IM1002,IM2021,IM3021,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00210202",
+    "eventName": "困兽的盛宴-普通 -02",
+    "eventPoint": "EPE00210203",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2011,IM3012,IM1002,IM2021,IM3022,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00210203",
+    "eventName": "困兽的盛宴-普通 -03",
+    "eventPoint": "EPE00210204",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2012,IM3013,IM1002,IM2022,IM3023,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00210204",
+    "eventName": "困兽的盛宴-普通 -04",
+    "eventPoint": "EPE00210205",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IM2012,IM3014,IM1002,IM2022,IM3024,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00210205",
+    "eventName": "困兽的盛宴-普通 -05",
+    "eventPoint": "EPE00220101",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE113",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1001,IC2001,IC3001,IM1002,IC2002,IC3002,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00220101",
+    "eventName": "死神的纷争-困难 -01",
+    "eventPoint": "EPE00220102",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1002,IM2021,IM3021,IM1003,IM2031,IM3031,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00220102",
+    "eventName": "死神的纷争-困难 -02",
+    "eventPoint": "EPE00220103",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1002,IM2021,IM3022,IM1003,IM2031,IM3032,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00220103",
+    "eventName": "死神的纷争-困难 -03",
+    "eventPoint": "EPE00220104",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1002,IM2022,IM3023,IM1003,IM2032,IM3033,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00220104",
+    "eventName": "死神的纷争-困难 -04",
+    "eventPoint": "EPE00220105",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1002,IM2022,IM3024,IM1003,IM2032,IM3034,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00220105",
+    "eventName": "死神的纷争-困难 -05",
+    "eventPoint": "EPE00220201",
+    "eventTypeCN": "活动关卡EP1",
+    "landEsid": "SE101",
+    "describe": "环境：荒原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1002,IC2002,IC3002,IM1003,IC2003,IC3003,II10001",
+    "bgm": "200_Battle_Wasteland"
+  },
+  {
+    "eventID": "EPE00220201",
+    "eventName": "困兽的盛宴-困难 -01",
+    "eventPoint": "EPE00220202",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2031,IM3031,IM1004,IM2041,IM3041,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00220202",
+    "eventName": "困兽的盛宴-困难 -02",
+    "eventPoint": "EPE00220203",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2031,IM3032,IM1004,IM2041,IM3042,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00220203",
+    "eventName": "困兽的盛宴-困难 -03",
+    "eventPoint": "EPE00220204",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2032,IM3033,IM1004,IM2042,IM3043,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00220204",
+    "eventName": "困兽的盛宴-困难 -04",
+    "eventPoint": "EPE00220205",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2032,IM3034,IM1004,IM2042,IM3044,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00220205",
+    "eventName": "困兽的盛宴-困难 -05",
+    "eventPoint": "EPE00230101",
+    "eventTypeCN": "活动关卡EP2",
+    "landEsid": "SE113",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IC2003,IC3003,IM1004,IC2004,IC3004,II10001",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00230101",
+    "eventName": "困兽的盛宴-极难 -01",
+    "eventPoint": "EPE00230102",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2031,IM3031,IM1004,IM2041,IM3041,II10002",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00230102",
+    "eventName": "困兽的盛宴-极难 -02",
+    "eventPoint": "EPE00230103",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2031,IM3032,IM1004,IM2041,IM3042,II10002",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00230103",
+    "eventName": "困兽的盛宴-极难 -03",
+    "eventPoint": "EPE00230104",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2032,IM3033,IM1004,IM2042,IM3043,II10002",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00230104",
+    "eventName": "困兽的盛宴-极难 -04",
+    "eventPoint": "EPE00230105",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE103",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IM2032,IM3034,IM1004,IM2042,IM3044,II10002",
+    "bgm": "203_Battle_Ice"
+  },
+  {
+    "eventID": "EPE00230105",
+    "eventName": "困兽的盛宴-极难 -05",
+    "eventPoint": "",
+    "eventTypeCN": "活动关卡EP ex",
+    "landEsid": "SE113",
+    "describe": "环境：冰原\\n胜利条件:击破全部敌方单位",
+    "EventDrop": "IM99994,IM1003,IC2003,IC3003,IM1004,IC2004,IC3004,II10002",
+    "bgm": "203_Battle_Ice"
+  }
+]
