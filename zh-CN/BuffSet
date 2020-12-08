@@ -345,6 +345,21 @@
         "type": "1"
     },
     {
+        "buffName": "机动值提升",
+        "buffid": "BDOL105213",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "暴击伤害提升",
         "buffid": "BDOL106303",
         "count": "0",
@@ -372,6 +387,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+",
         "time": "99",
+        "type": "1"
+    },
+    {
+        "buffName": "机动值提升",
+        "buffid": "BDOL105212",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -449,6 +479,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+",
         "time": "99",
+        "type": "1"
+    },
+    {
+        "buffName": "机动值提升",
+        "buffid": "BDOL105211",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -1866,6 +1911,21 @@
         "type": "1"
     },
     {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105223",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "对地命中补正降低",
         "buffid": "BAS101813",
         "count": "0",
@@ -1926,6 +1986,21 @@
         "type": "0"
     },
     {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105222",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "伤害豁免提升",
         "buffid": "BE84113051",
         "count": "0",
@@ -1953,6 +2028,21 @@
         "grouplevel": "0",
         "icon": "Buff_hit+,Buff_critical+",
         "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105221",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -2318,6 +2408,21 @@
         "type": "0"
     },
     {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105231",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "mp",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_extra+",
+        "time": "0",
+        "type": "1"
+    },
+    {
         "buffName": "对地火力提升",
         "buffid": "BAS102911",
         "count": "0",
@@ -2333,6 +2438,21 @@
         "type": "1"
     },
     {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105233",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "mp",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_extra+",
+        "time": "0",
+        "type": "1"
+    },
+    {
         "buffName": "对地命中补正提升",
         "buffid": "BAS203411",
         "count": "0",
@@ -2344,6 +2464,21 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_hit+",
+        "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "双豹同行",
+        "buffid": "BDOL105232",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "mp",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_extra+",
         "time": "0",
         "type": "1"
     },
@@ -2915,6 +3050,51 @@
         "grouplevel": "0",
         "icon": "Buff_onfire-",
         "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升",
+        "buffid": "BDOL112812",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升",
+        "buffid": "BDOL112813",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升",
+        "buffid": "BDOL112811",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -4276,6 +4456,21 @@
         "type": "1"
     },
     {
+        "buffName": "机动值提升,存在感降低",
+        "buffid": "BDOL112823",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge,targetWeight",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+,Buff_target-",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "命中补正提升,贯通提升",
         "buffid": "BDOL204621",
         "count": "0",
@@ -4302,6 +4497,36 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_hit+,Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "机动值提升,存在感降低",
+        "buffid": "BDOL112821",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge,targetWeight",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+,Buff_target-",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "机动值提升,存在感降低",
+        "buffid": "BDOL112822",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge,targetWeight",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+,Buff_target-",
         "time": "1",
         "type": "1"
     },
@@ -4786,6 +5011,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105311",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "暴击概率提升",
         "buffid": "BSS2064021",
         "count": "0",
@@ -5098,6 +5338,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+",
         "time": "2",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105321",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -6352,6 +6607,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升",
+        "buffid": "BSS1012011",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "0",
+        "type": "1"
+    },
+    {
         "buffName": "对地火力提升,对空火力提升",
         "buffid": "BAS206331",
         "count": "0",
@@ -6364,6 +6634,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+,Buff_power+",
         "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升",
+        "buffid": "BSS1012012",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+",
+        "time": "0",
         "type": "1"
     },
     {
@@ -6831,6 +7116,21 @@
         "grouplevel": "0",
         "icon": "Buff_armor+",
         "time": "99",
+        "type": "1"
+    },
+    {
+        "buffName": "暴击概率提升,暴击伤害提升",
+        "buffid": "BDOL101211",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "critical,criticalDB",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_critical+,Buff_critical+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -8267,6 +8567,21 @@
         "type": "1"
     },
     {
+        "buffName": "暴击概率提升,暴击伤害提升",
+        "buffid": "BDOL101213",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "critical,criticalDB",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_critical+,Buff_critical+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "伤害豁免提升",
         "buffid": "BDOL100123",
         "count": "0",
@@ -8279,6 +8594,21 @@
         "grouplevel": "0",
         "icon": "Buff_armor+",
         "time": "99",
+        "type": "1"
+    },
+    {
+        "buffName": "暴击概率提升,暴击伤害提升",
+        "buffid": "BDOL101212",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "critical,criticalDB",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_critical+,Buff_critical+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -8399,6 +8729,21 @@
         "grouplevel": "0",
         "icon": "Buff_stun-",
         "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "就是这家伙",
+        "buffid": "BDOL101221",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "target",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_lock-",
+        "time": "3",
         "type": "1"
     },
     {
@@ -8687,6 +9032,21 @@
         "type": "1"
     },
     {
+        "buffName": "贯通提升,对地基础命中提升",
+        "buffid": "BSS1052011",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "armorPenetration,hitWeightAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_hit+",
+        "time": "0",
+        "type": "1"
+    },
+    {
         "buffName": "伤害豁免提升",
         "buffid": "BDOL106911",
         "count": "0",
@@ -8893,6 +9253,21 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_armor+",
+        "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "贯通提升,对地基础命中提升",
+        "buffid": "BSS1052021",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "armorPenetration,hitWeightAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_hit+",
         "time": "0",
         "type": "1"
     },
@@ -9469,6 +9844,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105331",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "命中补正降低,机动性提升",
         "buffid": "EG030111",
         "count": "0",
@@ -9707,6 +10097,21 @@
         "icon": "Buff_hit-,Buff_dodge-",
         "time": "0",
         "type": "0"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105341",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
     },
     {
         "buffName": "标记状态",
@@ -14801,6 +15206,21 @@
         "type": "1"
     },
     {
+        "buffName": "机动值提升",
+        "buffid": "BSJ12033",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "伤害豁免提升",
         "buffid": "ZS00026",
         "count": "0",
@@ -16333,6 +16753,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105431",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "对地火力提升",
         "buffid": "BE42112031",
         "count": "0",
@@ -16363,6 +16798,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105432",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "对地火力提升",
         "buffid": "BAS103013",
         "count": "0",
@@ -16375,6 +16825,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+",
         "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105433",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -16813,6 +17278,21 @@
         "type": "0"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105442",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "装甲值降低",
         "buffid": "BAS108711",
         "count": "0",
@@ -16840,6 +17320,21 @@
         "grouplevel": "0",
         "icon": "Buff_onfire-",
         "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105443",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -17053,6 +17548,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105441",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "命中补正提升,暴击概率提升",
         "buffid": "BAS201813",
         "count": "0",
@@ -17098,6 +17608,21 @@
         "type": "0"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105411",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "对空火力提升,对地火力提升",
         "buffid": "BE6312105",
         "count": "0",
@@ -17110,6 +17635,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+,Buff_power+",
         "time": "0",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105412",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -17141,6 +17681,21 @@
         "icon": "Buff_dodge-,Buff_armor-",
         "time": "3",
         "type": "0"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105413",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
     },
     {
         "buffName": "机动值降低,装甲值降低",
@@ -17260,6 +17815,21 @@
         "grouplevel": "0",
         "icon": "Buff_power+,Buff_power+",
         "time": "3",
+        "type": "1"
+    },
+    {
+        "buffName": "对地基础命中提升",
+        "buffid": "BSS1128021",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "hitWeightAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_hit+",
+        "time": "1",
         "type": "1"
     },
     {
@@ -17413,6 +17983,21 @@
         "type": "1"
     },
     {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105421",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
         "buffName": "对地火力提升",
         "buffid": "BE61112051",
         "count": "0",
@@ -17424,6 +18009,51 @@
         "groupid": "0",
         "grouplevel": "0",
         "icon": "Buff_power+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105422",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地基础命中提升",
+        "buffid": "BSS1128011",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "hitWeightAG",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_hit+",
+        "time": "1",
+        "type": "1"
+    },
+    {
+        "buffName": "对地火力提升,机动值提升",
+        "buffid": "BAS105423",
+        "count": "0",
+        "dispelValue": "",
+        "dispelValueStr": "",
+        "dispelable": "0",
+        "effectType": "powerAG,dodge",
+        "groupName": "",
+        "groupid": "0",
+        "grouplevel": "0",
+        "icon": "Buff_power+,Buff_dodge+",
         "time": "1",
         "type": "1"
     },

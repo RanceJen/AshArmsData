@@ -1,16 +1,1 @@
-[
-    {
-        "criware": "",
-        "endTimeT": "1607389200000",
-        "gachaboxs": [],
-        "homeButton": "HOME_ACT_1_002",
-        "homeButtonIndex": "1",
-        "phasedQuestRewards": [],
-        "position": "ST*002",
-        "startTimeT": "1603486800000",
-        "state": "1",
-        "type": "1",
-        "typeID": "002",
-        "vote": ""
-    }
-]
+[]
