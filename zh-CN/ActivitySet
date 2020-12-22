@@ -203,10 +203,24 @@
         "activityTypeId": "106",
         "endDatetimeT": "1608584399000",
         "imgIndex": "Event_EQ05",
-        "index": "1",
+        "index": "0",
         "position": "",
         "returnDuration": "0",
         "returnNeedTime": "0",
         "startDatetimeT": "1607374800000"
+    },
+    {
+        "activityContent": "「不请自来的福音」        登录奖励",
+        "activityId": "12",
+        "activityRealId": "1*SC4",
+        "activityType": "1",
+        "activityTypeId": "SC4",
+        "endDatetimeT": "1609793999000",
+        "imgIndex": "Event_Login03",
+        "index": "1",
+        "position": "",
+        "returnDuration": "0",
+        "returnNeedTime": "0",
+        "startDatetimeT": "1608670800000"
     }
 ]

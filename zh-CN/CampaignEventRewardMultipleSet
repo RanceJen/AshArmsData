@@ -1,0 +1,42 @@
+[
+    {
+        "charRewardMultiple": "1",
+        "endTimeT": "0",
+        "eventType": "1",
+        "goldRewardMultiple": "1",
+        "itemRewardMultiple": "1",
+        "startTimeT": "0"
+    },
+    {
+        "charRewardMultiple": "1",
+        "endTimeT": "0",
+        "eventType": "2",
+        "goldRewardMultiple": "1",
+        "itemRewardMultiple": "1",
+        "startTimeT": "0"
+    },
+    {
+        "charRewardMultiple": "1",
+        "endTimeT": "0",
+        "eventType": "3",
+        "goldRewardMultiple": "1",
+        "itemRewardMultiple": "1",
+        "startTimeT": "0"
+    },
+    {
+        "charRewardMultiple": "1",
+        "endTimeT": "0",
+        "eventType": "4",
+        "goldRewardMultiple": "1",
+        "itemRewardMultiple": "1",
+        "startTimeT": "0"
+    },
+    {
+        "charRewardMultiple": "1",
+        "endTimeT": "0",
+        "eventType": "5",
+        "goldRewardMultiple": "1",
+        "itemRewardMultiple": "1",
+        "startTimeT": "0"
+    }
+]

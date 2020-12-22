@@ -64,6 +64,63 @@
         ]
     },
     {
+        "dateBeginLong": "1608652800000",
+        "dateEndLong": "1609776000000",
+        "signedCode": "SC4",
+        "signedName": "圣诞节登录奖励",
+        "signeds": [
+            {
+                "charid": "",
+                "day": "1",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,300,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "2",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,150,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "3",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,150,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "4",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,150,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "5",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,150,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "6",
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,0,0,150,0",
+                "signedCode": "SC4"
+            },
+            {
+                "charid": "",
+                "day": "7",
+                "itemReward": "ARM10549001,1",
+                "priceRewardStr": "0,0,0,0,0,0",
+                "signedCode": "SC4"
+            }
+        ]
+    },
+    {
         "dateBeginLong": "1606752000000",
         "dateEndLong": "1609430400000",
         "signedCode": "SM2012",
