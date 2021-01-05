@@ -2,7 +2,7 @@
     {
         "battlePassRewards": [],
         "criware": "",
-        "endTimeT": "1609793999000",
+        "endTimeT": "1610398799000",
         "gachaboxs": [
             {
                 "allCount": "100",
@@ -1898,21 +1898,6 @@
         "state": "1",
         "type": "99",
         "typeID": "0001",
-        "vote": ""
-    },
-    {
-        "battlePassRewards": [],
-        "criware": "",
-        "endTimeT": "1609808399000",
-        "gachaboxs": [],
-        "homeButton": "HOME_ACT_1_003",
-        "homeButtonIndex": "1",
-        "phasedQuestRewards": [],
-        "position": "ST*003",
-        "startTimeT": "1591304340000",
-        "state": "1",
-        "type": "1",
-        "typeID": "003",
         "vote": ""
     }
 ]

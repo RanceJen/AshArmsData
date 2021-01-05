@@ -49,7 +49,7 @@
         "activityTypeId": "4",
         "endDatetimeT": "0",
         "imgIndex": "Shop_FC",
-        "index": "3",
+        "index": "4",
         "position": "SHOP*999",
         "returnDuration": "0",
         "returnNeedTime": "0",
@@ -217,10 +217,38 @@
         "activityTypeId": "SC4",
         "endDatetimeT": "1609793999000",
         "imgIndex": "Event_Login03",
-        "index": "1",
+        "index": "3",
         "position": "",
         "returnDuration": "0",
         "returnNeedTime": "0",
         "startDatetimeT": "1608670800000"
+    },
+    {
+        "activityContent": "元旦特别登录奖励",
+        "activityId": "13",
+        "activityRealId": "1*SC5",
+        "activityType": "1",
+        "activityTypeId": "SC5",
+        "endDatetimeT": "1610398799000",
+        "imgIndex": "Event_Login04",
+        "index": "2",
+        "position": "",
+        "returnDuration": "0",
+        "returnNeedTime": "0",
+        "startDatetimeT": "1609275600000"
+    },
+    {
+        "activityContent": "「芳香剂的库存足够吗?」限定任务",
+        "activityId": "14",
+        "activityRealId": "4*108",
+        "activityType": "4",
+        "activityTypeId": "108",
+        "endDatetimeT": "1611003599000",
+        "imgIndex": "Event_EQ06",
+        "index": "1",
+        "position": "",
+        "returnDuration": "0",
+        "returnNeedTime": "0",
+        "startDatetimeT": "1609794000000"
     }
 ]

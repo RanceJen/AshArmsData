@@ -121,227 +121,66 @@
         ]
     },
     {
-        "dateBeginLong": "1606752000000",
-        "dateEndLong": "1609430400000",
-        "signedCode": "SM2012",
-        "signedName": "月签到",
+        "dateBeginLong": "1609257600000",
+        "dateEndLong": "1610380800000",
+        "signedCode": "SC5",
+        "signedName": "元旦登录奖励",
         "signeds": [
             {
                 "charid": "",
                 "day": "1",
                 "itemReward": "",
-                "priceRewardStr": "0,0,2000,0,0,0",
-                "signedCode": "SM2012"
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "2",
                 "itemReward": "",
-                "priceRewardStr": "300,0,0,0,0,0",
-                "signedCode": "SM2012"
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "3",
                 "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,50",
-                "signedCode": "SM2012"
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "4",
-                "itemReward": "IC9001,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "5",
-                "itemReward": "II10002,5",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "6",
-                "itemReward": "IM0005,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
+                "itemReward": "",
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "7",
                 "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,100",
-                "signedCode": "SM2012"
+                "priceRewardStr": "0,0,0,20,0,0,0",
+                "signedCode": "SC5"
             },
             {
                 "charid": "",
                 "day": "8",
-                "itemReward": "",
-                "priceRewardStr": "0,0,2000,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "9",
-                "itemReward": "",
-                "priceRewardStr": "300,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "10",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,50",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "11",
-                "itemReward": "IC9001,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "12",
-                "itemReward": "II10002,5",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "13",
-                "itemReward": "IM0006,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "14",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,100",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "15",
-                "itemReward": "",
-                "priceRewardStr": "0,0,2000,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "16",
-                "itemReward": "",
-                "priceRewardStr": "300,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "17",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,50",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "18",
-                "itemReward": "IC9001,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "19",
-                "itemReward": "II10002,5",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "20",
-                "itemReward": "IM0005,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "21",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,100",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "22",
-                "itemReward": "",
-                "priceRewardStr": "0,0,2000,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "23",
-                "itemReward": "",
-                "priceRewardStr": "300,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "24",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,50",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "25",
-                "itemReward": "IC9001,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "26",
-                "itemReward": "II10002,5",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "27",
-                "itemReward": "IM0006,3",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "28",
-                "itemReward": "IM9001,1",
-                "priceRewardStr": "0,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "29",
-                "itemReward": "",
-                "priceRewardStr": "0,0,2000,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "30",
-                "itemReward": "",
-                "priceRewardStr": "300,0,0,0,0,0",
-                "signedCode": "SM2012"
-            },
-            {
-                "charid": "",
-                "day": "31",
-                "itemReward": "",
-                "priceRewardStr": "0,0,0,0,0,50",
-                "signedCode": "SM2012"
+                "itemReward": "ARM10099002,1",
+                "priceRewardStr": "0,0,0,0,0,0,0",
+                "signedCode": "SC5"
             }
         ]
     },
